@@ -1,0 +1,22 @@
+{
+  "overview": "A beautiful restaurant website for Padma Home Food, a Hyderabad-based eatery serving fresh veg and non-veg specials. Features a full menu with food photos, veg/non-veg labels, pricing, opening hours, and a contact/support page.",
+  "features": [
+    "Home page with hero, tagline, and opening hours",
+    "Full menu with 13 dishes — photos, prices, veg/non-veg badges",
+    "Menu filtering by veg and non-veg",
+    "Support page with contact form and phone number",
+    "Responsive mobile-friendly design",
+    "Warm Indian food aesthetic with saffron and gold tones"
+  ],
+  "category": "restaurant",
+  "tags": [
+    "restaurant",
+    "food",
+    "menu",
+    "hyderabad",
+    "indian-cuisine",
+    "veg",
+    "non-veg"
+  ],
+  "last_updated": "2026-05-02T19:25:45.512Z"
+}
