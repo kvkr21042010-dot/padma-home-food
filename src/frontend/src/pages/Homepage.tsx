@@ -1,5 +1,5 @@
 import type { Page } from "@/App";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/button"; 
 import { menuItems } from "@/data/menuItems";
 import { ChevronRight, Clock, Flame, Leaf, MapPin, Phone } from "lucide-react";
 
